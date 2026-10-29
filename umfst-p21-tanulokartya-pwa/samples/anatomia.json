@@ -1,0 +1,298 @@
+{
+  "verzio": 1,
+  "pakli": {
+    "id": "pakli_anatomia_alap",
+    "nev": "Neuroanatómia és tájanatómia – Vizsgapakli (Nervus vagus és agyidegek)",
+    "leiras": "32 kártyás orvosi anatómiai alappakli: agyidegek (különös tekintettel a X. agyideg – nervus vagus – ágrendszerére), koponyaalapi nyílások, szív és végtagok beidegzése."
+  },
+  "kartyak": [
+    {
+      "id": "anat_01",
+      "elolap": "Melyek a nervus vagus (X. agyideg) koponyaűri és nyaki ágai?",
+      "hatlap": "• Ramus meningeus (fossa cranii posterior dura materéhez)\n• Ramus auricularis (külső hallójárat bőre)\n• Rami pharyngei (garatizmok – plexus pharyngeus)\n• Nervus laryngeus superior (r. externus: m. cricothyroideus; r. internus: gége nyálkahártya a hangrés felett)\n• Rami cardiaci cervicales superiores et inferiores",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_02",
+      "elolap": "Melyek a nervus vagus (X. agyideg) mellkasi és hasüregi ágai?",
+      "hatlap": "• Nervus laryngeus recurrens (bal oldalon az arcus aortae-t, jobb oldalon az a. subclaviát kerüli meg → n. laryngeus inferior: összes belső gégeizom a m. cricothyroideus kivételével)\n• Rami cardiaci thoracici\n• Rami bronchiales (plexus pulmonalis)\n• Plexus oesophageus → truncus vagalis anterior et posterior\n• Rami gastrici, rami hepatici, rami coeliaci, rami renales (Cannon–Böhm-pontig)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_03",
+      "elolap": "Hol lép ki a koponyaűrből a nervus vagus (X.), és mely képletekkel osztozik a nyíláson?",
+      "hatlap": "A foramen jugulare (pars nervosa / anteromedialis rész) területén lép ki.\n\nMellette halad:\n• IX. agyideg (n. glossopharyngeus)\n• XI. agyideg (n. accessorius)\n• Sinus petrosus inferior és vena jugularis interna (pars venosa)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_04",
+      "elolap": "Mely agyidegmagvak tartoznak a nervus vagushoz (X.) az agytörzsben?",
+      "hatlap": "1. Nucleus ambiguus (SVE – speciális visceromotoros: garat- és gégeizmok)\n2. Nucleus dorsalis nervi vagi (GVE – általános visceromotoros/paraszimpatikus)\n3. Nucleus tractus solitarii (SVA/GVA – ízérzés az epiglottisról és viscerosensoros rostok)\n4. Nucleus spinalis nervi trigemini (GSA – külső hallójárat szomatoszenzoros rostjai)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_05",
+      "elolap": "Mi a féloldali nervus laryngeus recurrens sérülés klinikai következménye?",
+      "hatlap": "Az azonos oldali hangszalag paramedián (vagy cadaver) állásba kerül, ami rekedtséget (dysphonia) okoz. Kétoldali sérülés esetén akut légúti elzáródás és fulladásveszély léphet fel.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_06",
+      "elolap": "Meddig tart a nervus vagus paraszimpatikus beidegzési területe a tápcsatornában?",
+      "hatlap": "A Cannon–Böhm-pontig (a colon transversum jobb kétharmada és bal egyharmada határáig). Innen disztálisan a nervus splanchnici pelvici (S2–S4) biztosítja a paraszimpatikus beidegzést.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_07",
+      "elolap": "Mely képletek haladnak át a fissura orbitalis superioron?",
+      "hatlap": "• N. oculomotorius (III.)\n• N. trochlearis (IV.)\n• N. ophthalmicus (V/1) ágai: n. lacrimalis, n. frontalis, n. nasociliaris\n• N. abducens (VI.)\n• Vena ophthalmica superior",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_08",
+      "elolap": "Hol lépnek át a nervus trigeminus (V.) fő ágai a koponyaalapon?",
+      "hatlap": "• V/1 (N. ophthalmicus): fissura orbitalis superior\n• V/2 (N. maxillaris): foramen rotundum\n• V/3 (N. mandibularis): foramen ovale",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_09",
+      "elolap": "Melyik agyideg idegzi be a rágóizmokat, és melyek a fő rágóizmok?",
+      "hatlap": "A nervus mandibularis (V/3) motoros rostjai (n. masticatorius).\n\nFő rágóizmok:\n• M. masseter\n• M. temporalis\n• M. pterygoideus medialis\n• M. pterygoideus lateralis",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_10",
+      "elolap": "Melyek a nervus facialis (VII.) sziklacsonti (canalis facialis) szakaszának ágai?",
+      "hatlap": "1. Nervus petrosus major (ganglion pterygopalatinumhoz → könnymirigy, orr- és szájpadmirigyek)\n2. Nervus stapedius (m. stapedius beidegzése)\n3. Chorda tympani (nyelv elülső 2/3-ának ízérzése + gl. submandibularis és sublingualis paraszimpatikus rostjai)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_11",
+      "elolap": "Hogyan különíthető el a centrális és a perifériás facialis paresis (VII. agyidegbénulás)?",
+      "hatlap": "• Centrális bénulás: csak az ellenoldali alsó arcfél mimikai izmai bénulnak (a homlokráncolás és szemzárás megtartott a kétoldali supranuclearis beidegzés miatt).\n• Perifériás (Bell) paresis: az azonos oldali teljes arcfél (felső és alsó is) lebénul (lagophthalmus, homlokráncolás hiánya).",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_12",
+      "elolap": "Mi biztosítja a nyelv érző és ízérző beidegzését?",
+      "hatlap": "• Elülső 2/3 általános érző: n. lingualis (V/3)\n• Elülső 2/3 ízérző: chorda tympani (VII.)\n• Hátsó 1/3 általános érző és ízérző: n. glossopharyngeus (IX.)\n• Nyelvgyök / epiglottis környéke: n. laryngeus superior r. internus (X.)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_13",
+      "elolap": "Melyik agyideg idegzi be a glandula parotideát (fültőmirigyet), és mi a Jacobson-anasztomózis útja?",
+      "hatlap": "A IX. agyideg (n. glossopharyngeus) paraszimpatikus rostjai.\n\nÚtvonal: Nucleus salivatorius inferior → IX. → n. tympanicus → plexus tympanicus → n. petrosus minor → ganglion oticum → n. auriculemporalis (V/3) → glandula parotidea.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_14",
+      "elolap": "Mely izmokat idegzi be a nervus accessorius (XI.) külső ága (ramus externus)?",
+      "hatlap": "• Musculus sternocleidomastoideus (fej fordítása az ellenoldalra, billentése azonos oldalra)\n• Musculus trapezius (vállöv emelése, lapocka rögzítése)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_15",
+      "elolap": "Merre tér ki a nyelv kiöltéskor egyoldali nervus hypoglossus (XII.) perifériás sérülése esetén?",
+      "hatlap": "A sérült (bénult) oldal felé tér ki, mivel az ép oldali musculus genioglossus áttolja a nyelvet a gyengült oldalra.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_16",
+      "elolap": "Mely külső szemizmokat mely agyidegek idegzik be? (Szabály: LR6, SO4, többi 3)",
+      "hatlap": "• N. abducens (VI.): m. rectus lateralis\n• N. trochlearis (IV.): m. obliquus superior\n• N. oculomotorius (III.): m. rectus superior, m. rectus inferior, m. rectus medialis, m. obliquus inferior, valamint m. levator palpebrae superioris",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_17",
+      "elolap": "Mely képletek alkotják a vagina carotica (carotis-hüvely) tartalmát a nyakon?",
+      "hatlap": "• Arteria carotis communis (feljebb arteria carotis interna) – mediálisan\n• Vena jugularis interna – laterálisan\n• Nervus vagus (X.) – a két ér között és mögött\n(A hüvely elülső falában fut az ansa cervicalis profunda)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_18",
+      "elolap": "Melyek az arteria carotis externa elülső ágai (alulról felfelé)?",
+      "hatlap": "1. Arteria thyroidea superior\n2. Arteria lingualis\n3. Arteria facialis",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_19",
+      "elolap": "Mely erek vesznek részt a circulus arteriosus cerebri (Willis-féle agyalapi artériás gyűrű) felépítésében?",
+      "hatlap": "• Arteria cerebri anterior (jobbról és balról)\n• Arteria communicans anterior\n• Arteria carotis interna (végágai)\n• Arteria communicans posterior (jobbról és balról)\n• Arteria cerebri posterior (az a. basilaris végágai)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_20",
+      "elolap": "Melyek a szív ingerképző és ingerületvezető rendszerének fő részei?",
+      "hatlap": "1. Nodus sinuatrialis (Keith–Flack-csomó) – jobb pitvar falában a v. cava superior beszájadzásánál\n2. Nodus atrioventricularis (Aschoff–Tawara-csomó) – Koch-háromszögben\n3. Fasciculus atrioventricularis (His-köteg)\n4. Crus dextrum et sinistrum (Tawara-szárak)\n5. Rami subendocardiales (Purkinje-rostok)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_21",
+      "elolap": "Melyek a bal koszorúér (arteria coronaria sinistra) fő ágai és ellátási területük?",
+      "hatlap": "• Ramus interventricularis anterior (LAD): bal kamra elülső fala, kamraközi sövény elülső 2/3-a\n• Ramus circumflexus (RCX): bal pitvar, bal kamra oldalsó és hátsó fala",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_22",
+      "elolap": "Milyen magasságban és mely képletekkel lép át a rekeszen (diaphragma) a három nagy nyílás?",
+      "hatlap": "• Th8 – Foramen venae cavae (centrum tendineum): v. cava inferior, n. phrenicus dexter ága\n• Th10 – Hiatus oesophageus: oesophagus, truncus vagalis anterior et posterior\n• Th12 – Hiatus aorticus: aorta, ductus thoracicus, v. azygos/hemiazygos",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_23",
+      "elolap": "Melyek a plexus brachialis fasciculusai és az azokból eredő fő végágak?",
+      "hatlap": "• Fasciculus lateralis: n. musculocutaneus, n. medianus (radix lateralis)\n• Fasciculus medialis: n. ulnaris, n. medianus (radix medialis), n. cutaneus brachii et antebrachii medialis\n• Fasciculus posterior: n. axillaris, n. radialis",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_24",
+      "elolap": "Mi a jellegzetes kéztartás a nervus radialis, nervus medianus és nervus ulnaris bénulásakor?",
+      "hatlap": "• Nervus radialis: „eső kéz” (manus pendula – csukló- és ujjfeszítők bénulása)\n• Nervus medianus: „eskükéz” (ökölbe szorításkor az I–III. ujjak nem hajlanak be) és „majomkéz” (thenar atrófia)\n• Nervus ulnaris: „karomállás” (manus ग्रीफ / claw hand – mm. interossei és IV–V. lumbricalisok kiesése)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_25",
+      "elolap": "Mely képletek haladnak át a canalis carpin (kéztőalagúton)?",
+      "hatlap": "• M. flexor digitorum superficialis 4 ina\n• M. flexor digitorum profundus 4 ina\n• M. flexor pollicis longus ina\n• Nervus medianus (kompressziója okozza a carpal tunnel szindrómát)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_26",
+      "elolap": "Melyek a truncus coeliacus (Tripus Halleri) három fő ága?",
+      "hatlap": "1. Arteria gastrica sinistra\n2. Arteria hepatica communis\n3. Arteria splenica (lienalis)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_27",
+      "elolap": "Melyek a legfontosabb portocavalis anasztomózisok?",
+      "hatlap": "1. Oesophagus alsó harmada (v. gastrica sinistra ↔ vv. oesophageales → v. azygos) → varix!\n2. Rectum (v. rectalis superior ↔ vv. rectales mediae et inferiores)\n3. Köldök környéke (vv. paraumbilicales ↔ epigastrialis vénák → caput Medusae)\n4. Retroperitonealis (Retzius-féle) vénák",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_28",
+      "elolap": "Milyen képleteket tartalmaz a ligamentum hepatoduodenale?",
+      "hatlap": "A porta hepatis (Glisson-triász) képleteit:\n• Ductus choledochus (jobb elöl)\n• Arteria hepatica propria (bal elöl)\n• Vena portae hepatis (hátul, a kettő mögött)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_29",
+      "elolap": "Mely képletek haladnak át a hiati scalenin (hátsó scalenus-hasadék: m. scalenus anterior és medius között)?",
+      "hatlap": "• Arteria subclavia\n• Plexus brachialis truncusai (truncus superior, medius, inferior)\n(Megjegyzés: a vena subclavia az elülső scalenus-hasadékban, a m. scalenus anterior előtt halad!)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_30",
+      "elolap": "Mely képletek haladnak át a lacuna vasorumon és a lacuna musculorumon a ligamentum inguinale alatt?",
+      "hatlap": "• Lacuna musculorum (laterálisan): m. iliopsoas, n. femoralis, n. cutaneus femoris lateralis\n• Lacuna vasorum (mediálisan): a. femoralis (laterálisan), v. femoralis (középen), r. femoralis nervi genitofemoralis, Rosenmüller-nyirokcsomó (anulus femoralis)",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_31",
+      "elolap": "Mi alkotja a fossa poplitea (térdhajlati árok) határait és képleteinek sorrendjét?",
+      "hatlap": "Határok:\n• Felül-laterálisan: m. biceps femoris\n• Felül-mediálisan: m. semimembranosus és m. semitendinosus\n• Alul: m. gastrocnemius két feje\n\nKépletek felülettől a mélybe (N-V-A): Nervus tibialis → Vena poplitea → Arteria poplitea.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    },
+    {
+      "id": "anat_32",
+      "elolap": "Melyik gerincvelői szelvényekből ered a nervus phrenicus, és mit idegez be?",
+      "hatlap": "C3–C5 szelvényekből (plexus cervicalis) ered (\"C3, 4, 5 keeps the diaphragm alive\").\n• Motorosan: diaphragma (rekeszizom)\n• Érzően: pericardium, pleura mediastinalis és diaphragmatica, valamint a rekesz alatti peritoneum.",
+      "ef": 2.5,
+      "intervallum": 0,
+      "ismetles": 0,
+      "kovetkezo": "2026-01-01"
+    }
+  ]
+}
